@@ -1,4 +1,9 @@
 {
     "name": "@argencoders/tiny",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "description": "Tiny function",
+    "repository": "argencoders/tiny",
+    "license": "GNU",
+    "main": "index.js",
+    keywords: "argencoders tiny"
 }
